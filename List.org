@@ -2,7 +2,7 @@
 
 * Variational inference
 
-**** Black Box Variational Inference
++ Black Box Variational Inference
 + Copula variational inference
 + Doubly Stochastic Variational Bayes for non-Conjugate Inference
 + Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
