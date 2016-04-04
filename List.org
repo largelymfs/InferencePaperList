@@ -2,27 +2,28 @@
 
 * Variational inference
 
-+ Black Box Variational Inference
-+ Copula variational inference
-+ Doubly Stochastic Variational Bayes for non-Conjugate Inference
-+ Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
-+ Early Stopping as Nonparametric Variational Inference
-+ Fast Variational Inference in the Conjugate Exponential Family
-+ Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression
-+ Gaussian Kullback-Leibler Approximate Inference
-+ Hierarchical Variational Models
-+ Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes
-+ Markov Chain Monte Carlo and Variational Inference: Bridging the Gap
-+ Neural Variational Inference and Learning in Belief Networks
-+ Nonparametric Variational Inference
-+ On Modern Deep Learning and Variational Inference
-+ Practical Variational Inference for Neural Networks
-+ Robust Inference with Variational Bayes
-+ Smoothed Gradients for Stochastic Variational Inference
-+ Stochastic Backpropagation and Approximate Inference in Deep Generative Models
-+ Stochastic Variational Inference
-+ Streaming Variational Inference for Bayesian Nonparametric Mixture Models
-+ Streaming, Distributed Variational Inference for Bayesian Nonparametrics
-+ Structured Stochastic Variational Inference
-+ Variational Bayesian Inference with Stochastic Search
-+ Variational Inference in Nonconjugate Models
++ [Black Box Variational Inference](http://www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf)
++ [Copula variational inference](http://arxiv.org/pdf/1506.03159.pdf)
++ [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.csail.mit.edu/proceedings/papers/v32/titsias14.pdf)
++ [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://arxiv.org/pdf/1506.02142v4.pdf)
++ [Early Stopping as Nonparametric Variational Inference](http://arxiv.org/pdf/1504.01344v1.pdf)
++ [Fast Variational Inference in the Conjugate Exponential Family](http://papers.nips.cc/paper/4766-fast-variational-inference-in-the-conjugate-exponential-family.pdf)
++ [Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression](http://arxiv.org/pdf/1206.6679v6.pdf)
++ [Gaussian Kullback-Leibler Approximate Inference](http://www.jmlr.org/papers/volume14/challis13a/challis13a.pdf)
++ [Hierarchical Variational Models](http://arxiv.org/pdf/1511.02386v1.pdf)
++ [Iterative Refinement of Approximate Posterior for Training Directed Belief Networks](http://arxiv.org/pdf/1511.06382.pdf)
++ [Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes](http://arxiv.org/pdf/1506.04088v2.pdf)
++ [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap](http://arxiv.org/pdf/1410.6460v4.pdf)
++ [Neural Variational Inference and Learning in Belief Networks](https://www.cs.toronto.edu/~amnih/papers/nvil.pdf)
++ [Nonparametric Variational Inference](http://icml.cc/2012/papers/360.pdf)
++ [On Modern Deep Learning and Variational Inference](http://approximateinference.org/accepted/GalGhahramani2015.pdf)
++ [Practical Variational Inference for Neural Networks](http://www.cs.toronto.edu/~graves/nips_2011.pdf)
++ [Robust Inference with Variational Bayes](http://arxiv.org/pdf/1512.02578v1.pdf)
++ [Smoothed Gradients for Stochastic Variational Inference](http://arxiv.org/pdf/1406.3650v2.pdf)
++ [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](http://arxiv.org/pdf/1401.4082v3.pdf)
++ [Stochastic Variational Inference](http://www.columbia.edu/~jwp2128/Papers/HoffmanBleiWangPaisley2013.pdf)
++ [Streaming Variational Inference for Bayesian Nonparametric Mixture Models](http://arxiv.org/pdf/1412.0694v3.pdf)
++ [Streaming, Distributed Variational Inference for Bayesian Nonparametrics](http://arxiv.org/pdf/1510.09161v1.pdf)
++ [Structured Stochastic Variational Inference](http://arxiv.org/pdf/1404.4114v3.pdf)
++ [Variational Bayesian Inference with Stochastic Search](http://icml.cc/2012/papers/687.pdf)
++ [Variational Inference in Nonconjugate Models](http://www.cs.columbia.edu/~blei/papers/WangBlei2013.pdf)
