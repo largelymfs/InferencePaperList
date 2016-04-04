@@ -2,7 +2,7 @@
 
 * Variational inference
 
-+ [Black Box Variational Inference](http://www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf)
++ [Black Box Variational Inference] (http://www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf)
 + [Copula variational inference](http://arxiv.org/pdf/1506.03159.pdf)
 + [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.csail.mit.edu/proceedings/papers/v32/titsias14.pdf)
 + [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://arxiv.org/pdf/1506.02142v4.pdf)
