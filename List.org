@@ -28,3 +28,8 @@
 + Structured Stochastic Variational Inference (http://arxiv.org/pdf/1404.4114v3.pdf)
 + Variational Bayesian Inference with Stochastic Search (http://icml.cc/2012/papers/687.pdf)
 + Variational Inference in Nonconjugate Models (http://www.cs.columbia.edu/~blei/papers/WangBlei2013.pdf)
+
+
+* Sampling
+
+
