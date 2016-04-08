@@ -18,7 +18,7 @@
 + Neural Variational Inference and Learning in Belief Networks (https://www.cs.toronto.edu/~amnih/papers/nvil.pdf)
 + Nonparametric Variational Inference (http://icml.cc/2012/papers/360.pdf)
 + On Modern Deep Learning and Variational Inference (http://approximateinference.org/accepted/GalGhahramani2015.pdf)
-+ Overdispersed Black-Box Variational Inference
++ Overdispersed Black-Box Variational Inference (http://arxiv.org/abs/1603.01140)
 + Practical Variational Inference for Neural Networks (http://www.cs.toronto.edu/~graves/nips_2011.pdf)
 + Robust Inference with Variational Bayes (http://arxiv.org/pdf/1512.02578v1.pdf)
 + Smoothed Gradients for Stochastic Variational Inference (http://arxiv.org/pdf/1406.3650v2.pdf)
